@@ -1,3 +1,4 @@
+// File: server/controllers/enquiryController.js
 const Enquiry = require('../models/Enquiry');
 
 // GET all enquiries

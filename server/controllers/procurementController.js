@@ -1,3 +1,4 @@
+// File: server/controllers/procurementController.js
 const Enquiry = require('../models/Enquiry');
 
 // @desc Add procurement info to an enquiry

@@ -1,3 +1,4 @@
+// File: client/src/components/Navbar.js
 import React from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { useAuth } from '../auth/AuthContext';

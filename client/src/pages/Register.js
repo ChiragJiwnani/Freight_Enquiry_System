@@ -1,3 +1,4 @@
+// File: client/src/pages/Register.js
 import React, { useState } from 'react';
 import axios from '../api/axios';
 import { useNavigate, Link } from 'react-router-dom';
